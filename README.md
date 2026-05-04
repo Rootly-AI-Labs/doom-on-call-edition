@@ -2,6 +2,10 @@
 
 Doom WASM becomes a Rootly incident arena: incidents spawn as severity-coded monsters, labels show incident context, and Codex/Claude can control incident monsters through a local MCP wrapper.
 
+
+
+<img width="819" height="600" alt="image" src="https://github.com/user-attachments/assets/f31d95a8-dcda-49e0-97e5-41d438e79740" />
+
 Original project notes are preserved in [old-README.md](old-README.md).
 
 ## Safety
@@ -166,9 +170,7 @@ Check exported state:
 (Invoke-WebRequest -Uri "http://127.0.0.1:8000/api/agentic/state" -UseBasicParsing).Content
 ```
 
-## Screenshots / GIF
 
-Placeholder: add an arena screenshot or short GIF here.
 
 ## License
 
